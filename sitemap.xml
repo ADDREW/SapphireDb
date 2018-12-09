@@ -6,7 +6,22 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://morrisj.de/realtime-database/about/</loc>
+     <loc>https://morrisj.de/realtime-database/server/installation/</loc>
+     <lastmod>2018-12-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://morrisj.de/realtime-database/client/installation/</loc>
+     <lastmod>2018-12-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://morrisj.de/realtime-database/license/</loc>
+     <lastmod>2018-12-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://morrisj.de/realtime-database/release-notes/</loc>
      <lastmod>2018-12-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
